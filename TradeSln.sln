@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTradeData", "GetTradeData\GetTradeData.csproj", "{6BDDEDE1-39A7-4E18-81BE-D7BC7B2E9550}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTradeDataConsole", "GetTradeData\GetTradeDataConsole.csproj", "{6BDDEDE1-39A7-4E18-81BE-D7BC7B2E9550}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeWebApp", "TradeWebApp\TradeWebApp.csproj", "{1F757756-0D9F-40BF-A013-B9FDDC02A36A}"
 EndProject
